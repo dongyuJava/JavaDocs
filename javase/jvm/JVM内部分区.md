@@ -1,3 +1,4 @@
+## JVM内部分区
 ![img.png](image/img.png)
 
 ## 程序计数器
