@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c700238-2b6a-47d6-90ca-904feb6471bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/javase/jvm/image/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javase/jvm/image/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javase/jvm/image/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javase/jvm/image/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javase/jvm/image/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javase/jvm/image/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javase/jvm/image/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javase/jvm/image/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javase/jvm/image/img_8.png" afterDir="false" />
-    </list>
+    <list default="true" id="7c700238-2b6a-47d6-90ca-904feb6471bc" name="Changes" comment="jvm内部分区" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +13,20 @@
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="/usr/bin/git" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dongyuJava"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c2f5340c-438d-4b9c-a8ef-ef4a24fa8819" />
+        <option name="url" value="https://github.com/dongyuJava/JavaDocs.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -73,11 +77,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715656035051</updated>
-      <workItem from="1715656036232" duration="11488000" />
+      <workItem from="1715656036232" duration="12240000" />
     </task>
+    <task id="LOCAL-00001" summary="jvm内部分区">
+      <option name="closed" value="true" />
+      <created>1715753452592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715753452592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jvm内部分区" />
+    <option name="LAST_COMMIT_MESSAGE" value="jvm内部分区" />
   </component>
 </project>
